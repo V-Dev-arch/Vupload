@@ -92,60 +92,31 @@ How It Works
 
 ---
 
-<h2 id="faq">FAQ</h2>
 
-<details>
-<summary><strong>Is VUpload free?</strong></summary>
+## FAQ
 
+### Is VUpload free?
 Yes. VUpload is completely free to use.
 
-</details>
-
-<details>
-<summary><strong>Do I need an account?</strong></summary>
-
+### Do I need an account?
 No. Uploads are completely anonymous.
 
-</details>
-
-<details>
-<summary><strong>What is the maximum upload size?</strong></summary>
-
+### What is the maximum upload size?
 100 MB per file.
 
-</details>
-
-<details>
-<summary><strong>How long are files stored?</strong></summary>
-
+### How long are files stored?
 Files are automatically deleted after 90 days.
 
-</details>
+### What links do I receive?
+- Normal download link
+- Short link
+- QR Code
 
-<details>
-<summary><strong>What links do I receive?</strong></summary>
-
-Every upload generates:
-
-- A normal download link
-- A short share link
-- A QR Code
-
-</details>
-
-<details>
-<summary><strong>Can I upload APK or EXE files?</strong></summary>
-
+### Can I upload APK or EXE files?
 Yes. VUpload supports APK, EXE, and many other common file formats.
 
-</details>
-
-<details>
-<summary><strong>Does VUpload work on mobile?</strong></summary>
-
+### Does VUpload work on mobile?
 Yes. VUpload works on phones, tablets, and desktop browsers.
-
-</details>
 
 <h2 id="legal--policies">Legal & Policies</h2>Please review the following pages before using VUpload.
 
