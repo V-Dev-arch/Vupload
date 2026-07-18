@@ -120,8 +120,7 @@ Yes. VUpload works on phones, tablets, and desktop browsers.
 
 <h2 id="legal--policies">Legal & Policies</h2>Please review the following pages before using VUpload.
 
-- Privacy Policy
-  https://vupload.xo.je/privacy.php
+  <a href="https://vupload.xo.je/privacy.php">Privacy Policy</a> •
 
 - Terms of Service
   https://vupload.xo.je/terms.php
