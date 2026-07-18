@@ -28,12 +28,6 @@ No registration required.
 
 ---
 
-Links
-
-Resource| Link
-Website| https://vupload.xo.je
-
----
 
 <h2 id="features">Features</h2><table>
 <tr>
